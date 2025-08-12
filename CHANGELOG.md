@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.24](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.4.23...v0.4.24) (2025-08-12)
+
+
+### Bug Fixes
+
+* migrated to more actively maintained mcp golang lib and added AI explain  ([#1557](https://github.com/k8sgpt-ai/k8sgpt/issues/1557)) ([c47ae59](https://github.com/k8sgpt-ai/k8sgpt/commit/c47ae595fb9fc5bf22afef3bc6764b3e87e4553d))
+
+
+### Other
+
+* **deps:** update actions/checkout action to v5 ([#1562](https://github.com/k8sgpt-ai/k8sgpt/issues/1562)) ([e385e77](https://github.com/k8sgpt-ai/k8sgpt/commit/e385e77da93a65fe52a152bf1f8f1415552698d5))
+
 ## [0.4.23](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.4.22...v0.4.23) (2025-08-08)
 
 
